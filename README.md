@@ -1,4 +1,4 @@
-# AI-Image-Generation-App
+# Showcase AI
 
 
 ### [Live Site](https://theshowcaseai.netlify.app/)
@@ -37,7 +37,7 @@ The application leverages advanced machine learning algorithms to generate uniqu
 - Fork the repository, create a clone and make sure that you are not working on the `MAIN BRANCH' repository!
 
 ```bash
-git clone https://github.com/{your-github-username-here}/AI-Image-Generation-App.git
+git clone https://github.com/{your-github-username-here}/Showcase-AI.git
 ```
 
 ```bash
@@ -53,7 +53,7 @@ git checkout -b {name-of-the-branch-here}
 - Add a stream so you can sync your clone with the original repository (get the latest updates)
 
 ```bash
-git remote add upstream https://github.com/anayatkhan1/AI-Image-Generation-App.git
+git remote add upstream https://github.com/anayatkhan1/Showcase-AI.git
 ```
 
 - Use this command to stay up to date with the original repository (not the fork that you made)
